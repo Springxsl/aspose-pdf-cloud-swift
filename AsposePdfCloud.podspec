@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.homepage = 'https://products.aspose.cloud/pdf/cloud'
   s.source_files = 'AsposePdfCloud/*.swift', 'AsposePdfCloud/**/*.swift'
-  s.dependency 'Alamofire', '~> 4.7.0'
+  s.dependency 'Alamofire'
 end
